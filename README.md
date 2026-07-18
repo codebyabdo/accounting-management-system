@@ -2,6 +2,19 @@
 
 <p align="center">
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-v5-FF4154?logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=reactrouter&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Production-success)
+![License](https://img.shields.io/badge/License-Showcase-lightgrey)
+
+</p>
+
+<p align="center">
+
 ### Enterprise Accounting & Inventory Management Platform
 
 A modern accounting and inventory management platform designed for clothing retailers, providing sales, purchases, inventory control, customer management, reporting, and business operations through a scalable dashboard experience.
@@ -25,6 +38,13 @@ The platform centralizes accounting, inventory management, invoicing, purchasing
 Built with scalability and maintainability in mind, the application follows a modular front-end architecture and delivers a responsive user experience across desktop and tablet devices.
 
 ---
+## Business Value
+
+The platform helps businesses streamline accounting workflows, inventory operations, sales management, purchasing, customer relationships, and reporting through a unified enterprise dashboard.
+
+Its modular architecture enables future expansion while maintaining high usability and maintainability.
+
+---
 
 # Project Status
 
@@ -38,7 +58,7 @@ The system has been deployed as an internal enterprise application and is active
 
 ## Team Lead | Front-End Engineer
 
-I led the front-end development team while contributing to the implementation of the application's core modules.
+As Team Lead and Front-End Engineer, I was responsible for leading the front-end team while contributing to the implementation of the application's core modules, architecture planning, API integration, and engineering coordination.
 
 My responsibilities included:
 
@@ -58,8 +78,9 @@ My responsibilities included:
 
 # Team
 
-**2 Front-End Engineers • 1 Back-End Engineer**
+2 Front-End Engineers (Including Me)
 
+1 Back-End Engineer
 ---
 
 # Platform Modules
@@ -143,19 +164,29 @@ My responsibilities included:
 
 # Current Features
 
-- ✅ Authentication
-- ✅ Role-Based Access Control (RBAC)
-- ✅ Dashboard Analytics
-- ✅ Sales Management
-- ✅ Purchases Management
-- ✅ Inventory Management
-- ✅ Customer Management
-- ✅ Supplier Management
-- ✅ Reports & Analytics
-- ✅ Invoice Printing
-- ✅ Responsive Dashboard
-- ✅ Dark Mode
-- ✅ Arabic / English Localization
+✔ Authentication
+
+✔ RBAC
+
+✔ Dashboard Analytics
+
+✔ Inventory Management
+
+✔ Sales
+
+✔ Purchases
+
+✔ Reports
+
+✔ Customers
+
+✔ Suppliers
+
+✔ Invoice Printing
+
+✔ Responsive Dashboard
+
+✔ Localization (Arabic / English)
 
 ---
 
@@ -294,19 +325,92 @@ src/
 - Customer Management
 - Supplier Management
 
-> Screenshots are available in the **assets/** directory.
+---
+# 📸 Screenshots
+
+| Login | Dashboard |
+|:------:|:---------:|
+| ![](assets/login-en.png) | ![](assets/dashboard.png) |
+| **Sales** | **Inventory** |
+| ![](assets/sales.png) | ![](assets/inventory.png) |
+| **Reports** | **Customers** |
+| ![](assets/reports.png) | ![](assets/customers.png) |
+| **Suppliers** | **Mobile** |
+| ![](assets/suppliers.png) | ![](assets/mobile.png) |
+
+## 🔐 Authentication
+
+| Arabic Login | English Login |
+|--------------|---------------|
+| ![](./assets/login-ar.png) | ![](./assets/login-en.png) |
+
+---
+
+## 🏠 Dashboard
+
+| Dashboard |
+|-----------|
+| ![](./assets/dashboard.png) |
+
+---
+
+## 🧾 Sales & Invoices
+
+| Sales | Invoice (Light) |
+|-------|-----------------|
+| ![](./assets/sales.png) | ![](./assets/invoice-light.png) |
+
+| Invoice |
+|---------|
+| ![](./assets/invoice.png) |
+
+---
+
+## 📦 Purchases
+
+| Purchases |
+|-----------|
+| ![](./assets/purchases.png) |
+
+---
+
+## 📦 Inventory
+
+| Inventory |
+|-----------|
+| ![](./assets/inventory.png) |
+
+---
+
+## 👥 Customers & Suppliers
+
+| Customers | Suppliers |
+|-----------|-----------|
+| ![](./assets/customers.png) | ![](./assets/suppliers.png) |
+
+---
+
+## 👤 User Management
+
+| Profile | Users |
+|---------|-------|
+| ![](./assets/profile.png) | ![](./assets/users.png) |
 
 ---
 
 # Documentation
 
 Additional engineering documentation is available inside the **docs/** directory.
+ 
+- [Architecture](docs/architecture.md)
 
-- Architecture
-- Modules
-- Responsibilities
-- Technical Decisions
-- Future Improvements
+- [Future Improvements](docs/future-roadmap.md)
+
+- [Responsibilities](docs/responsibilities.md)
+
+- [Modules](docs/modules.md)
+
+- [Technical Decisions](docs/technical-decisions.md)
 
 ---
 
