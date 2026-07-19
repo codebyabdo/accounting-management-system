@@ -1,7 +1,7 @@
 # Accounting Management System
 
 <p align="center">
-  <img src="./assets/cover.png" alt="Vorder Cover" width="100%">
+  <img src="./assets/login-en.png" alt="Vorder Cover" width="100%">
 </p>
 
 <p align="center">
