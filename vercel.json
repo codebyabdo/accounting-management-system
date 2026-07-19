@@ -1,9 +1,0 @@
-{
-  "buildCommand": "npm ci && npm run build"
-  ,
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/" }
-  ]
-
-
-}
