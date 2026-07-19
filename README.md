@@ -1,6 +1,10 @@
 # Accounting Management System
 
 <p align="center">
+  <img src="./assets/cover.png" alt="Vorder Cover" width="100%">
+</p>
+
+<p align="center">
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
